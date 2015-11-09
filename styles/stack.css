@@ -24,6 +24,26 @@
 	color: #F69C55;
 }
 
+/*login page css*/
+div.well{
+  height: 250px;
+} 
+
+.Absolute-Center {
+  margin: auto;
+  position: static;
+}
+
+.Absolute-Center.is-Responsive {
+  width: 50%; 
+  height: 50%;
+  min-width: 250px;
+  max-width: 400px;
+  padding: 40px;
+}
+
+
+
 
 /* Right side content */
 .panel-warning > .panel-heading {
@@ -47,7 +67,7 @@
   color: #0000EE; 
 }
 .a-unstyled:hover { 
-  color: #000; 
+  color: #808080; 
 }
 .a-unstyled:active { 
   color: #333; 
@@ -64,7 +84,10 @@
 .hot-q {
   list-style: none;
   padding-left: 5px;
+
 }
+
+
 
 
 /*footer*/
