@@ -1,1 +1,1 @@
-<?php include_once("stackClone"); ?>
+<?php include_once("stackClone.html"); ?>
