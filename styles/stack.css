@@ -20,8 +20,9 @@
 }
 
 /*Nav button styling*/
-. {
-	color: #F69C55;
+.stack-button {
+	border-color: #FFFFFF;
+	border-image-width: 0px;
 }
 
 /*login page css*/
